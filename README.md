@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-# To-Do-with-Angular
+
 To Do list With Angular 
-=======
-# MyApp
+
+![todo](https://user-images.githubusercontent.com/91588692/154652854-c4387ecf-ba90-4e4e-b6f7-802ac5592355.gif)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
